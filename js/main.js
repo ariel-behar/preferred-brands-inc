@@ -1,0 +1,1 @@
+window.addEventListener("load",function(){var t=document.getElementById("bottle-and-glass"),e=document.querySelector("#main-title > h1");setTimeout(function(){t.style.opacity="1",e.style.opacity="1"},800)});
